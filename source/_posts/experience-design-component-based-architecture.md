@@ -1,4 +1,7 @@
-# Component-based Architecture's patterns
+---
+title: Component-based Architecture's patterns
+date: {{ date }}
+---
 
 There's a lot of holes (issues) when implement Component-based Architecture, so I wrote a articles to share it.
 
