@@ -3,6 +3,8 @@ title: Component-based Architecture's patterns
 date: {{ date }}
 ---
 
+中文版本（Chinese Version）：《[【架构拾集】组件设计原则](https://www.phodal.com/blog/architecture-in-realworld-design-component-based-architecture/)》
+
 There's a lot of holes (issues) when implement Component-based Architecture, so I wrote a articles to share it.
 
 ## Pattens on Component-based Architecture
